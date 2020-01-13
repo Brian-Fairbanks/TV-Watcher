@@ -1,0 +1,8 @@
+4/29/19
+Added auto-refresh data
+formatted data with multiple labels for easier reading
+set up add new show button
+ - checks for 404 error on invalid show names before adding to list
+redesigned updateData for passed list instead of reading showNames
+added progress bar for updateing show information from website
+changed Update to work with individual show names instead of the entire list
